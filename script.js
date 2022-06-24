@@ -1,2 +1,2 @@
-let id = document.querySelector('#id');
+let id = document.querySelector('#h1');
 id.click()
